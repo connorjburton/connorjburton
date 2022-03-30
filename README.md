@@ -6,5 +6,5 @@
 - 🤫 I'm working on [mucore](https://github.com/connorjburton/mucore)
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on plain-text|minimal|tiny|fast web projects
-- 🤔 I’m looking for contributors to [hmac-auth-express](https://github.com/connorjburton/hmac-auth-express)
+- 🤗 I’m looking for contributors to [hmac-auth-express](https://github.com/connorjburton/hmac-auth-express)
 - 📫 How to reach me: [connorburton.com](https://connorburton.com)
